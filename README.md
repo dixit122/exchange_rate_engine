@@ -45,4 +45,4 @@
 To run the project, open command prompt in the folder containing all the files of the project.
 
 Type the following command in the command prompt.
-> streamlit run finalmodular.py
+> streamlit run final_modular.py
