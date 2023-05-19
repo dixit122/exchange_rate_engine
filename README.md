@@ -25,24 +25,32 @@
 ### The system should have python/Anaconda installed in the system.
 
 ## Link to download python:
-> https://www.python.org/downloads/
+https://www.python.org/downloads/
 
 ## To install the required libraries, type the following commands in the command prompt.
 
 ## Streamlit
-> pip install streamlit
-
+```
+pip install streamlit
+```
 ## Numpy
-> pip install numpy
-
+```
+pip install numpy
+```
 ## Plotly
-> pip install plotly
-
+```
+pip install plotly
+```
 ## Pandas
-> pip install pandas
+```
+pip install pandas
+```
 
 # How to run the project
+```
 To run the project, open command prompt in the folder containing all the files of the project.
-
+```
 Type the following command in the command prompt.
-> streamlit run final_modular.py
+```
+streamlit run final_modular.py
+```
